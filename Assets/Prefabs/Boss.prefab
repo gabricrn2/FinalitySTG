@@ -218,7 +218,7 @@ MonoBehaviour:
   velfire_stage1_2: 15
   Shottime1: 0.5
   curtaintime: 0.1
-  windowDist: 2.2
+  windowDist: 2.73
   curtainangle: {x: 1, y: 0, z: 0}
   curtainclosespeed: 1
   Shottime2: 0.3
